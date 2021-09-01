@@ -17,3 +17,7 @@
 .hs-slider .hs-item .hi-text h1 strong {
     color: #e31e3d;
 }
+
+.nav-menu ul li.active>a {
+    color: #e31e3d;
+}
