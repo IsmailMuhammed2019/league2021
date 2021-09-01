@@ -21,3 +21,11 @@
 .nav-menu ul li.active>a {
     color: #e31e3d;
 }
+
+.hs-slider.owl-carousel .owl-nav button.owl-next {
+    background-color: black;
+
+}
+.hs-slider.owl-carousel .owl-nav button {
+    background: black;
+}
