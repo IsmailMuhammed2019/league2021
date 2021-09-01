@@ -10,8 +10,10 @@
 }
 
 
-element.style {
-}
 .nav-menu ul li a {
     padding: 10px 10px;
+}
+
+.hs-slider .hs-item .hi-text h1 strong {
+    color: #e31e3d;
 }
